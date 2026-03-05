@@ -1,2 +1,1 @@
-# Testing
-I am testing git cloning :D
+### This is my repository for Testing ###
