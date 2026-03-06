@@ -1,3 +1,5 @@
+import Functions
+
 # Variables and Data Types
 float = 0.1
 integer = 1
@@ -48,7 +50,5 @@ for i in range(10):
 
 # Functions
 
-def sum(a: int, b: int) -> int:
-    return a + b
 
-sum(1, 2)
+Functions.sum(1, 2)
